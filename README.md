@@ -1,3 +1,3 @@
-# `template-generic`
+# CSS Grid Tutorial (The Net Ninja)
 
-Template for generic repositories
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY
